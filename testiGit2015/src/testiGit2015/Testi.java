@@ -4,6 +4,7 @@ public class Testi {
 
 	public static void main(String[] args) {
 		System.out.println("Terveeee");
+		System.out.println("Terve itelles");
 
 	}
 
